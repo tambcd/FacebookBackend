@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\facebookClone\\Backend\\WebApi\\WebApi\\WebApi.csproj": {}
+    "D:\\Facebook\\Backend\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\facebookClone\\Backend\\WebApi\\WebApi\\WebApi.csproj": {
+    "D:\\Facebook\\Backend\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\facebookClone\\Backend\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Facebook\\Backend\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\facebookClone\\Backend\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Facebook\\Backend\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
-        "outputPath": "D:\\facebookClone\\Backend\\WebApi\\WebApi\\obj\\",
+        "outputPath": "D:\\Facebook\\Backend\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
